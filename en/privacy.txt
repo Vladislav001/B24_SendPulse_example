@@ -1,0 +1,51 @@
+Privacy Policy
+
+Guryev Vladislav (hereinafter - the Company) respects the right of each person to privacy.
+
+In order to use certain services, programs and products of the Company (hereinafter referred to as the Products of the Company), it may be necessary to complete the registration procedure or provide personal information to the Company. Registration may be required to access certain program features or participate in promotions. This privacy policy explains how this information is used. Please read these Privacy Policy carefully and ask questions if necessary.
+
+These Privacy Policy govern the relationship between the Company and any individual, individual entrepreneur, legal entity (hereinafter referred to as the User) for the processing of Personal Information, including but not limited to the collection, use, preservation and security of the information provided by the User and / or collected from the User. The terms of this Privacy Policy apply to all information that the Company and / or its affiliates or other authorized persons acting on behalf of the Company may obtain about the User during their use of any of the Company's Products.
+
+Please note: the use of the Company's Products means your full acceptance of all the provisions of these Terms of Privacy and the terms of processing your personal information specified therein. If you do not agree to unconditionally accept all the provisions of these Privacy Policy, you are not entitled to use the Products of the Company and must remove all their components from your computer (computer).
+
+1. Personal information collected and processed by the Company under these Terms of Confidentiality, personal information means:
+1.1. Information (including, but not limited to, personal data) that the User independently provides to the Company when taking actions aimed at registering Company Products (including activation) or as part of their use (including creating an account, handling support service). Information is provided by the User filling out the relevant forms, while the amount of information provided when filling in the optional fields of these forms is determined by the User independently.
+1.2. Information obtained automatically when the Products of the Company are used by the User, incl. from cookies (when downloading materials from the Company's websites, information about the User’s system is automatically checked; when using the User’s communication tools, materials and messages that he sent and received can be saved, and the Company reserves the right to check the content of the User’s communication on their websites) .
+1.3. User data - any information uploaded (entered) by the User into the Company's Products.
+1.4. Other information about the User that the Company receives exclusively in the purposes specified in Section 2 of these Terms of Privacy.
+
+2. Purpose of the collection and processing of personal information of users
+The collection, storage and processing of the information in this Privacy Policy is performed solely for the following specific purposes:
+2.1. To identify the User when using the Company's Products;
+2.2. To personalize the accounting of visits (including the purpose of providing personalized services to the User) and to register User actions, the Company uses cookies.
+2.3. To interact with the User within the framework of agreements or agreements concluded with the Company.
+2.4. For statistical and other studies based on anonymous data (including to clarify the views of users on various products and services provided by the Company).
+
+3. Conditions for the processing of personal information of the user and its transfer to third parties
+3.1. The storage (including modification and deletion) of the Users' personal information is carried out in accordance with the functional purpose of the specific Products of the Company, the technical documentation for them, and the License Agreement for their use.
+3.2. Disclosure of personal information to third parties is carried out in the following cases:
+3.2.1. The user has given his consent in advance for such disclosure.
+3.2.2. The transfer is necessary for the execution of the contract, whose party or beneficiary or guarantor for which is the User, as well as for the conclusion of the contract on the initiative of the User or the contract in which the User will be the beneficiary or guarantor.
+3.2.3. The transfer is necessary to protect the rights and legitimate interests of the Company or third parties in cases where the User violates the copyrights of the Company and / or the corresponding License Agreement.
+3.2.4. The transfer is necessary for the administration of justice, the execution of a judicial act, an act of another body or official subject to execution in accordance with the legislation of the Russian Federation on enforcement proceedings or other cases provided for by the current legislation of the Russian Federation.
+3.3. When processing personal data of users 1C-Bitrix is ​​guided by the Federal Law of the Russian Federation "On personal data".
+
+4. Limitations of liability
+4.1. The Company does not initiate the placement of personal information when using the Company's Products, does not control its accuracy and relevance, however, the Company reserves the right to require confirmation of the accuracy of the information transmitted to it by the User.
+4.2. When placing (providing the Company) personal information of third parties, the User warrants that he has received all the necessary permissions and consents to the specified actions, as well as guarantees the full and unconditional consent of these persons with all provisions with the provisions of these Terms of Privacy.
+4.3. The Company cannot maintain the confidentiality of the personal information of the User, the public access to which is provided by the User himself due to the functional purposes of the respective Product of the Company; The user agrees that when using such Products, a certain part of his personal information becomes available to an unlimited number of persons.
+
+5. Protection of personal information
+The Company takes the necessary legal, organizational and technical measures or ensures their adoption to protect personal information from unlawful or accidental access to it, destruction, modification, blocking, copying, provision, dissemination of personal information, as well as from other illegal actions in relation to personal information, including:
+
+· Uses RSA encryption in Company Products.
+· Provides, if necessary, two-step authentication for access to the account.
+· Protects authorized sessions.
+· Constantly improving ways to collect, store and process data.
+
+6. Final provisions
+These Privacy Policy may be changed by the Company unilaterally by posting their new edition on the Internet at https: //.../privacy.php. In case of discrepancy of the Privacy Policy with the provisions of the License Agreement with the User, the License Agreement shall prevail.
+
+7. Contact information
+Skype vladiclav001
+vguryevb24info@gmail.com
